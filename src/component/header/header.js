@@ -9,7 +9,9 @@ const Header = () =>{
            <div className="projects">
                 <NavLink to='/'>Home </NavLink>
                 <span>/</span>
-                <NavLink to='/project'> Projects</NavLink>
+                <NavLink to='/project'> Projects </NavLink>
+                <span>/</span>
+                <a href="https://resume.io/r/dmfcsUsz5"> Resume</a>
            </div>
             <nav className="navbar">
                 <li className="facebook"><a href="https://www.facebook.com/www.waiyanwin"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-facebook" viewBox="0 0 16 16">
