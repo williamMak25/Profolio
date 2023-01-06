@@ -1,0 +1,31 @@
+.warp{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.contentContainer{
+    height: 20px;
+}
+.skill__container{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    margin: 20px 20px;
+    padding: 100px;
+    align-items: center;
+}
+.skill__container img{
+    width: 50px;
+    height: 50px;
+}
+.box{
+ margin: 20px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ border-radius: 50%;
+ width: 100px;
+ height: 100px;
+ background-color: aliceblue;
+}

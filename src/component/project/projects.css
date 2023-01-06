@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+.warps{
+display: grid;
+grid-template-columns: auto auto;
+}
+.recipeApp{
+    background-color: rgb(114, 108, 108);
+    color: rgb(245, 245, 245);
+    padding: 15px;
+    border-radius: 5px;
+    margin: 20px;
+    width: 400px;
+}
+.recipeApp img{
+    border-radius: 5px;
+}
+.recipeApp span{
+    background-color: rgb(97, 85, 85);
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+.recipeApp a{
+    margin-top: 5px;
+}
+.gitAndLink{
+    margin: 5px;
+}
+.gh,.link{
+    color: rgb(255, 245, 245);
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+    margin-top: 10px
+}

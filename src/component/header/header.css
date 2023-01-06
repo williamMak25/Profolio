@@ -1,0 +1,38 @@
+.header{
+    color: white;
+    height: 70px;
+    position: relative;
+    z-index: 1;
+}
+.projects{
+        position:fixed;
+        left: 0px;
+        margin-left: 50px;
+        margin-top: 20px;
+  }
+  .projects a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+  }
+  .projects a:hover{
+    border-bottom: 3px solid white;
+  }
+.navbar{
+    position:fixed;
+    right: 0px;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+.navbar li{
+    display: inline;
+    margin-left: 20px;
+}
+.bi{
+    color: white;
+    height:30px;
+    width: 30px;
+}
+.facebook a {
+    text-decoration: none;
+}
