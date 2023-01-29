@@ -13,7 +13,7 @@ const HomePage = () => {
         <div className="homePage" data-aos="fade-up">
             <div className="personal__content">
                 <p>Hello,My name is <span>Wai Yan Win Lwin</span></p>
-                <h1>I'm JavaScript Developer</h1>
+                <h1>I'm Reactjs Developer</h1>
                 <p>"Let's Try Something New Together"</p>
             </div>
         </div>

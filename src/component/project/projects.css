@@ -7,8 +7,8 @@ display: grid;
 grid-template-columns: auto auto;
 }
 .recipeApp{
-    background-color: rgb(114, 108, 108);
-    color: rgb(245, 245, 245);
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     padding: 15px;
     border-radius: 5px;
     margin: 20px;
@@ -18,7 +18,7 @@ grid-template-columns: auto auto;
     border-radius: 5px;
 }
 .recipeApp span{
-    background-color: rgb(97, 85, 85);
+    background-color: rgb(236, 230, 230);
     border-radius: 5px;
     padding: 5px;
     margin: 5px;
@@ -30,7 +30,7 @@ grid-template-columns: auto auto;
     margin: 5px;
 }
 .gh,.link{
-    color: rgb(255, 245, 245);
+    color: rgb(0, 0, 0);
     width: 25px;
     height: 25px;
     margin-right: 10px;

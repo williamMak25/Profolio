@@ -16,15 +16,15 @@
 .personal__content span{
     font-size: 50px;
     margin-bottom: 0px;
-    color: #C197DD;
+
 }
 .personal__content h1{
     margin-bottom: 0px;
     font-size: 90px;
-    color: #C197DD;
+
     opacity: 1;
     margin-top: 10px;
-    text-shadow: black 12px 12px 10px;
+  
     /*animation-name: change;
     animation-duration: 5s;
     animation-iteration-count:1;
@@ -32,11 +32,11 @@
 }
 .personal__content p {
     margin-left: 20px;
-    color: white;
+
     font-size: 20px;
     opacity: 1;
     margin-top: 10px;
-    text-shadow: black 12px 12px 10px;
+
    /* animation-name: change;
     animation-duration: 5s;
     animation-iteration-count:1;
