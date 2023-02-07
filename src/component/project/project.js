@@ -56,7 +56,7 @@ export const Projects = () => {
         </div>
 
         <div className='recipeApp'>
-            <img src="https://ibb.co/jf943YJ" style={{width:400,height:200}} alt='recep'/>
+            <img src="file:///C:/Users/waiya/OneDrive/Pictures/Screenshot%20(2).jpg" style={{width:400,height:200}} alt='recep'/>
             <h3>Weather App</h3>
             <p></p>
             <span>Reactjs</span><span>TypeScript</span>
