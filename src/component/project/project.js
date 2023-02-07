@@ -56,7 +56,7 @@ export const Projects = () => {
         </div>
 
         <div className='recipeApp'>
-            <img src="https://ibb.co/DV24BCy" style={{width:400,height:200}} alt='recep'/>
+            <img src='https://ibb.co/DV24BCy/Screenshot-19.png' style={{width:400,height:200}} alt='recep'/>
             <h3>Weather App</h3>
             <p></p>
             <span>Reactjs</span><span>TypeScript</span>
