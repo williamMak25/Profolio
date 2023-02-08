@@ -1,6 +1,6 @@
 import React from 'react'
 import './projects.css'
-
+import IMG from './Screenshot (2).png'
 export const Projects = () => {
   return (
         <div className='container'>
@@ -56,7 +56,7 @@ export const Projects = () => {
         </div>
 
         <div className='recipeApp'>
-            <img src='https://ibb.co/ft9gpb7' style={{width:400,height:200}} alt='recep'/>
+            <img src={IMG}style={{width:400,height:200}} alt='recep'/>
             <h3>Weather App</h3>
             <p></p>
             <span>Reactjs</span><span>TypeScript</span>
